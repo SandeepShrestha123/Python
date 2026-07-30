@@ -1,0 +1,1 @@
+This is the example to know whether the try block is working or not
